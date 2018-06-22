@@ -28,6 +28,7 @@ All changes will undergo a verification process before submission.
  5. [Perla](https://www.openstreetmap.org/user/perlywerly)
  6. [Kelly](https://www.openstreetmap.org/user/GreenApple11)
  7. [Edwardo](https://www.openstreetmap.org/user/Bigredgum) 
+ 8. [Hung](https://www.openstreetmap.org/user/HLOSM) 
 
 Please feel free to reach out to us with feedback, questions and suggestions to suneel.kaw@uber.com and OSM@uber.com. 
 
