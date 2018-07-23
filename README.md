@@ -29,6 +29,11 @@ All changes will undergo a verification process before submission.
  6. [Kelly](https://www.openstreetmap.org/user/GreenApple11)
  7. [Edwardo](https://www.openstreetmap.org/user/Bigredgum) 
  8. [Hung](https://www.openstreetmap.org/user/HLOSM) 
+ 9. [Alexander](https://www.openstreetmap.org/user/All_Might)
+ 10.[Aaron](https://www.openstreetmap.org/user/G0d)
+ 11. [Kevin](https://www.openstreetmap.org/user/i<3Ralphie)
+ 12. [Dakota](https://www.openstreetmap.org/user/Viewtiful_Joe)
+ 
 
 Please feel free to reach out to us with feedback, questions and suggestions to suneel.kaw@uber.com and OSM@uber.com. 
 
