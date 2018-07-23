@@ -30,7 +30,7 @@ All changes will undergo a verification process before submission.
  7. [Edwardo](https://www.openstreetmap.org/user/Bigredgum) 
  8. [Hung](https://www.openstreetmap.org/user/HLOSM) 
  9. [Alexander](https://www.openstreetmap.org/user/All_Might)
- 10.[Aaron](https://www.openstreetmap.org/user/G0d)
+ 10. [Aaron](https://www.openstreetmap.org/user/G0d)
  11. [Kevin](https://www.openstreetmap.org/user/i<3Ralphie)
  12. [Dakota](https://www.openstreetmap.org/user/Viewtiful_Joe)
  
