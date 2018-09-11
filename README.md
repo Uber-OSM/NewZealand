@@ -51,7 +51,7 @@ All changes will undergo a verification process before submission.
  28. [Pratibha](https://www.openstreetmap.org/user/PRASHOBH)
  29. [Koyel](https://www.openstreetmap.org/user/koyel)
  30. [Rajesh](https://www.openstreetmap.org/user/raju1)
- 31. [Anita](https://www.openstreetmap.org/user/Anita Mahato)
+ 31. [Anita](https://www.openstreetmap.org/user/Anita%20Mahato)
  32. [Rajeshkumar](https://www.openstreetmap.org/user/RajeshSundaram)
  33. [Geethanjali](https://www.openstreetmap.org/user/)
  34. [Shiva](https://www.openstreetmap.org/user/Shiva Alakke)
