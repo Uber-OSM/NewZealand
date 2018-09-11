@@ -42,7 +42,7 @@ All changes will undergo a verification process before submission.
  19. [Saipavan](https://www.openstreetmap.org/user/Saipavan%20Siddarth)
  20. [Ravindran](https://www.openstreetmap.org/user/Randonee)
  21. [Akhil](https://www.openstreetmap.org/user/Brat_Akki)
- 22. [Karthik](https://www.openstreetmap.org/user/karthik%20E)
+ 22. [Karthik](https://www.openstreetmap.org/user/Karthik%20E)
  23. [Ambrish](https://www.openstreetmap.org/user/Ambrish%20Shahi)
  24. [Veerepalli](https://www.openstreetmap.org/user/Naveensai)
  25. [Himashaila](https://www.openstreetmap.org/user/Himashaila)
