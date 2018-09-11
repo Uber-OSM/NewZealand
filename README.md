@@ -36,7 +36,7 @@ All changes will undergo a verification process before submission.
  13. [Joey](https://www.openstreetmap.org/user/Frozone)
  14. [Lakshmi](https://www.openstreetmap.org/user/ltalawa)
  15. [Raghavendra](https://www.openstreetmap.org/user/Raghavendra_T)
- 16. [Braveen](https://www.openstreetmap.org/user/bkumar18)
+ 16. [Braveen](https://www.openstreetmap.org/user/Bkumar18)
  17. [Veena](https://www.openstreetmap.org/user/vbs)
  18. [Lavanya](https://www.openstreetmap.org/user/Dancing%20Barbie)
  19. [Saipavan](https://www.openstreetmap.org/user/Saipavan%20Siddarth)
