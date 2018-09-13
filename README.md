@@ -53,11 +53,10 @@ All changes will undergo a verification process before submission.
  30. [Rajesh](https://www.openstreetmap.org/user/raju1)
  31. [Anita](https://www.openstreetmap.org/user/Anita%20Mahato)
  32. [Rajeshkumar](https://www.openstreetmap.org/user/RajeshSundaram)
- 33. [Geethanjali](https://www.openstreetmap.org/user/)
- 34. [Shiva](https://www.openstreetmap.org/user/Shiva%20Ganesha%20A)
- 35. [Dalmiya](https://www.openstreetmap.org/user/DalmiyaC)
- 36. [Nikhilesh](https://www.openstreetmap.org/user/Nacham)
- 37. [Lakshmi](https://www.openstreetmap.org/user/ltalawa)
+ 33. [Shiva](https://www.openstreetmap.org/user/Shiva%20Ganesha%20A)
+ 34. [Dalmiya](https://www.openstreetmap.org/user/DalmiyaC)
+ 35. [Nikhilesh](https://www.openstreetmap.org/user/Nacham)
+ 36. [Lakshmi](https://www.openstreetmap.org/user/ltalawa)
  
 Please feel free to reach out to us with feedback, questions and suggestions to suneel.kaw@uber.com and OSM@uber.com. 
 
