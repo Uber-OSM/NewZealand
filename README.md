@@ -57,6 +57,8 @@ All changes will undergo a verification process before submission.
  34. [Dalmiya](https://www.openstreetmap.org/user/DalmiyaC)
  35. [Nikhilesh](https://www.openstreetmap.org/user/Nacham)
  36. [Lakshmi](https://www.openstreetmap.org/user/ltalawa)
+ 37. [Scott](https://www.openstreetmap.org/user/Smoredigger)
+ 38. [Brian](https://www.openstreetmap.org/user/Augustus77)
  
 Please feel free to reach out to us with feedback, questions and suggestions to suneel.kaw@uber.com and OSM@uber.com. 
 
